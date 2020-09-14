@@ -1,0 +1,109 @@
+{
+  "uid" : "6ad1eb8ba6fe0de9",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Task_1.runToDevice",
+  "historyId" : "abe3d403b38b4e5f5296744731bedba",
+  "time" : {
+    "start" : 1599671195430,
+    "stop" : 1599671210289,
+    "duration" : 14859
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599671195428,
+      "stop" : 1599671195428,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599671194783,
+      "stop" : 1599671195426,
+      "duration" : 643
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1599671210290,
+      "stop" : 1599671211258,
+      "duration" : 968
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "Firsttest"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "19028@owner-HP-EliteBook-Folio-9470m.TestNG-test=Firsttest-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Lenovo"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ad1eb8ba6fe0de9.json",
+  "parameterValues" : [ "Lenovo" ]
+}

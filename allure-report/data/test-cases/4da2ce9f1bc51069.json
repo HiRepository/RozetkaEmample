@@ -1,0 +1,131 @@
+{
+  "uid" : "4da2ce9f1bc51069",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Task_1.runToDevice",
+  "historyId" : "e8362316f648ba7a53fee4f5c359549c",
+  "time" : {
+    "start" : 1599671933896,
+    "stop" : 1599671950173,
+    "duration" : 16277
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599671933676,
+      "stop" : 1599671933822,
+      "duration" : 146
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599671930568,
+      "stop" : 1599671933363,
+      "duration" : 2795
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1599671950188,
+      "stop" : 1599671951120,
+      "duration" : 932
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "FirstTest_Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "1234@owner-HP-EliteBook-Folio-9470m.TestNG-test=FirstTest_Chrome-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Port",
+    "value" : "5900"
+  }, {
+    "name" : "arg0",
+    "value" : "Acer"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a11913e4421ec9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671854920,
+        "stop" : 1599671869895,
+        "duration" : 14975
+      }
+    }, {
+      "uid" : "32c37a263d0f5d70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671656258,
+        "stop" : 1599671670232,
+        "duration" : 13974
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4da2ce9f1bc51069.json",
+  "parameterValues" : [ "5900", "Acer", "chrome" ]
+}

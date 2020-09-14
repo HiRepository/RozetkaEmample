@@ -1,0 +1,94 @@
+{
+  "uid" : "dbf4920dbfdf81bd",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Paralel_Test.runToDevice",
+  "historyId" : "378c59676bafe970920d43e5ff914969",
+  "time" : {
+    "start" : 1599671270579,
+    "stop" : 1599671297786,
+    "duration" : 27207
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599671266291,
+      "stop" : 1599671269932,
+      "duration" : 3641
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599671270280,
+      "stop" : 1599671270478,
+      "duration" : 198
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Paralel_Test"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Paralel_Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "Firsttest"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Paralel_Test"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "25049@owner-HP-EliteBook-Folio-9470m.TestNG-test=Firsttest-2(12)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Acer"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbf4920dbfdf81bd.json",
+  "parameterValues" : [ "Acer" ]
+}

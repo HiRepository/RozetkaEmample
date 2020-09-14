@@ -1,0 +1,127 @@
+{
+  "uid" : "24cee3637eaa32c7",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Task_1.runToDevice",
+  "historyId" : "36e39dd23789960ce49b52dac40e0fc4",
+  "time" : {
+    "start" : 1599726528722,
+    "stop" : 1599726544989,
+    "duration" : 16267
+  },
+  "status" : "failed",
+  "statusMessage" : "expected [true] but found [false]",
+  "statusTrace" : "java.lang.AssertionError: expected [true] but found [false]\n\tat org.testng.Assert.fail(Assert.java:99)\n\tat org.testng.Assert.failNotEquals(Assert.java:1037)\n\tat org.testng.Assert.assertTrue(Assert.java:45)\n\tat org.testng.Assert.assertTrue(Assert.java:55)\n\tat main.java.homework_6.Task_1.runToDevice(Task_1.java:39)\n\tat sun.reflect.GeneratedMethodAccessor43.invoke(Unknown Source)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)\n\tat org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:214)\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\n\tat java.util.ArrayList.forEach(ArrayList.java:1257)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:764)\n\tat org.testng.TestRunner.run(TestRunner.java:585)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\n\tat org.testng.SuiteRunner.access$000(SuiteRunner.java:28)\n\tat org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)\n\tat org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:66)\n\tat java.util.concurrent.FutureTask.run(FutureTask.java:266)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\n\tat java.lang.Thread.run(Thread.java:748)\n",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599726527993,
+      "stop" : 1599726528719,
+      "duration" : 726
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599726528720,
+      "stop" : 1599726528720,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1599726544990,
+      "stop" : 1599726546350,
+      "duration" : 1360
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "FirstTest_Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "11078@owner-HP-EliteBook-Folio-9470m.TestNG-tests-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Google"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "116c891a39f1ab89",
+      "status" : "skipped",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726511938,
+        "stop" : 1599726527294,
+        "duration" : 15356
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "24cee3637eaa32c7.json",
+  "parameterValues" : [ "Google", "chrome" ]
+}

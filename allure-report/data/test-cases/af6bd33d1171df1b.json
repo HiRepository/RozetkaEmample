@@ -1,0 +1,117 @@
+{
+  "uid" : "af6bd33d1171df1b",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Task_1.runToDevice",
+  "historyId" : "c914abcf222ab76876c41b5ab8671273",
+  "time" : {
+    "start" : 1599671119107,
+    "stop" : 1599671132768,
+    "duration" : 13661
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599671119097,
+      "stop" : 1599671119097,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599671118410,
+      "stop" : 1599671119096,
+      "duration" : 686
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1599671132770,
+      "stop" : 1599671133859,
+      "duration" : 1089
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "Firsttest"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "19028@owner-HP-EliteBook-Folio-9470m.TestNG-test=Firsttest-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Dell"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4567a25e0092b6f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599670897210,
+        "stop" : 1599670912464,
+        "duration" : 15254
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af6bd33d1171df1b.json",
+  "parameterValues" : [ "Dell" ]
+}

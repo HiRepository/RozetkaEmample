@@ -1,0 +1,110 @@
+{
+  "uid" : "1d9ad123b1565ab6",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Task_1.runToDevice",
+  "historyId" : "93740f34fbbf8390d35df603e633e738",
+  "time" : {
+    "start" : 1599726118620,
+    "stop" : 1599726138055,
+    "duration" : 19435
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599726118618,
+      "stop" : 1599726118618,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599726117804,
+      "stop" : 1599726118617,
+      "duration" : 813
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1599726138057,
+      "stop" : 1599726138888,
+      "duration" : 831
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "FirstTest_Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Task_1"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "11078@owner-HP-EliteBook-Folio-9470m.TestNG-tests-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Lenovo"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d9ad123b1565ab6.json",
+  "parameterValues" : [ "Lenovo", "chrome" ]
+}

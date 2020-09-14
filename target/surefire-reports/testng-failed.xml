@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [RandomCheckbox]">
+  <listeners>
+    <listener class-name="test.java.utils.Listener"/>
+    <listener class-name="test.java.utils.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="CheckboxRandomIteration(failed)">
+    <classes>
+      <class name="test.java.rozetka.Manufacturer_random_check_example">
+        <methods>
+          <include name="tearDown"/>
+          <include name="randomManufacturer"/>
+          <include name="setUp"/>
+          <include name="pageFactory"/>
+        </methods>
+      </class> <!-- test.java.rozetka.Manufacturer_random_check_example -->
+    </classes>
+  </test> <!-- CheckboxRandomIteration(failed) -->
+</suite> <!-- Failed suite [RandomCheckbox] -->

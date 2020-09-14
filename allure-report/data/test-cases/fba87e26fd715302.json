@@ -1,0 +1,110 @@
+{
+  "uid" : "fba87e26fd715302",
+  "name" : "runToDevice",
+  "fullName" : "main.java.homework_6.Paralel_Test.runToDevice",
+  "historyId" : "893e79c3888ef77438c88fd79aa93c52",
+  "time" : {
+    "start" : 1599726074631,
+    "stop" : 1599726093590,
+    "duration" : 18959
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "pageFactory",
+    "time" : {
+      "start" : 1599726074626,
+      "stop" : 1599726074626,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599726069313,
+      "stop" : 1599726074624,
+      "duration" : 5311
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1599726093592,
+      "stop" : 1599726095525,
+      "duration" : 1933
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "main.java.homework_6.Paralel_Test"
+  }, {
+    "name" : "testClass",
+    "value" : "main.java.homework_6.Paralel_Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "runToDevice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Firssuite"
+  }, {
+    "name" : "suite",
+    "value" : "SecondTest_Firefox"
+  }, {
+    "name" : "subSuite",
+    "value" : "main.java.homework_6.Paralel_Test"
+  }, {
+    "name" : "host",
+    "value" : "owner-HP-EliteBook-Folio-9470m"
+  }, {
+    "name" : "thread",
+    "value" : "11078@owner-HP-EliteBook-Folio-9470m.TestNG-tests-2(12)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Dream Machines"
+  }, {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fba87e26fd715302.json",
+  "parameterValues" : [ "Dream Machines", "firefox" ]
+}

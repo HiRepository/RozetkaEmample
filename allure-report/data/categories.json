@@ -1,0 +1,445 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "chrome not reachable\n  (Session info: chrome=84.0.4147.125)\n  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 5.3.0-40-generic x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578700 (2f1ed5f9343c13..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:36843}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 84.0.4147.125, webStorageEnabled: true, webdriver.remote.sessionid: 6502445ac86e1667fb3b2c550b9...}\nSession ID: 6502445ac86e1667fb3b2c550b940158",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "7e1a9d0ea8fdfd4e",
+        "parentUid" : "71211c3b0afc8ca36878ae66cc4c4b1d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599590255538,
+          "stop" : 1599590255545,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "26ba8af4bdce0618",
+        "parentUid" : "71211c3b0afc8ca36878ae66cc4c4b1d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599590255779,
+          "stop" : 1599590255781,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "71211c3b0afc8ca36878ae66cc4c4b1d"
+    }, {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "5d29fb834baa912b",
+        "parentUid" : "13b7e465664cb29a98c577cbb0750338",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599672512164,
+          "stop" : 1599672512165,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ "9001", "chrome" ]
+      }, {
+        "name" : "setUp",
+        "uid" : "be9cda72a773d796",
+        "parentUid" : "13b7e465664cb29a98c577cbb0750338",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599672517265,
+          "stop" : 1599672517265,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ "9002", "firefox" ]
+      } ],
+      "uid" : "13b7e465664cb29a98c577cbb0750338"
+    }, {
+      "name" : "\nParameter 'Port' is required by BeforeMethod on method setUp but has not been marked @Optional or defined\nin /home/owner/IdeaProjects/lesson3/lesson12.xml",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "dc7c41708506af65",
+        "parentUid" : "4f4999a41b3a3dd690c8abd9a1b3d77e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599674591584,
+          "stop" : 1599674591590,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "setUp",
+        "uid" : "9b2ec64e0fba431d",
+        "parentUid" : "4f4999a41b3a3dd690c8abd9a1b3d77e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599674591584,
+          "stop" : 1599674591590,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "4f4999a41b3a3dd690c8abd9a1b3d77e"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//label[contains(.,'Compaq')]\"}\n  (Session info: chrome=85.0.4183.83)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.83, chrome: {chromedriverVersion: 85.0.4183.83 (94abc2237ae0c..., userDataDir: /tmp/.com.google.Chrome.rYpPWK}, goog:chromeOptions: {debuggerAddress: localhost:36971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: ce8763d85155de71df7cc31bef6...}\nSession ID: ce8763d85155de71df7cc31bef6e8f6f\n*** Element info: {Using=xpath, value=//label[contains(.,'Compaq')]}",
+      "children" : [ {
+        "name" : "runToDevice",
+        "uid" : "9b4e7662d3cfd64a",
+        "parentUid" : "97c53bc9fbb11d83943e0d62929c40ec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599822497607,
+          "stop" : 1599822509063,
+          "duration" : 11456
+        },
+        "flaky" : true,
+        "parameters" : [ "Compaq", "chrome" ]
+      } ],
+      "uid" : "97c53bc9fbb11d83943e0d62929c40ec"
+    }, {
+      "name" : "Unable to locate element: //label[contains(.,'Compaq')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 5925, moz:profile: /tmp/rust_mozprofileb20Np7, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, platformVersion: 5.3.0-40-generic, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: cea77676-8dab-463d-b182-0f2...}\nSession ID: cea77676-8dab-463d-b182-0f26026b7fb2\n*** Element info: {Using=xpath, value=//label[contains(.,'Compaq')]}",
+      "children" : [ {
+        "name" : "runToDevice",
+        "uid" : "d8f25a83b82c5129",
+        "parentUid" : "fb311dd8cdf983df643009e63b02b571",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599822588803,
+          "stop" : 1599822600877,
+          "duration" : 12074
+        },
+        "flaky" : true,
+        "parameters" : [ "Compaq", "firefox" ]
+      } ],
+      "uid" : "fb311dd8cdf983df643009e63b02b571"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [true] but found [false]",
+      "children" : [ {
+        "name" : "runToDevice",
+        "uid" : "da0e4f42bfaa6c6d",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599671104370,
+          "stop" : 1599671116910,
+          "duration" : 12540
+        },
+        "flaky" : true,
+        "parameters" : [ "Asus" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "55e671687e123bdf",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599671165700,
+          "stop" : 1599671179342,
+          "duration" : 13642
+        },
+        "flaky" : false,
+        "parameters" : [ "HP" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "92944a4c1260cddc",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726495470,
+          "stop" : 1599726509336,
+          "duration" : 13866
+        },
+        "flaky" : false,
+        "parameters" : [ "Gigabyte", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "24cee3637eaa32c7",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726528722,
+          "stop" : 1599726544989,
+          "duration" : 16267
+        },
+        "flaky" : false,
+        "parameters" : [ "Google", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "4f0c1d54449fcfc8",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726546629,
+          "stop" : 1599726564602,
+          "duration" : 17973
+        },
+        "flaky" : false,
+        "parameters" : [ "Epic", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "5c20503e250437e3",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726602885,
+          "stop" : 1599726618759,
+          "duration" : 15874
+        },
+        "flaky" : false,
+        "parameters" : [ "Medion", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "cd6fa7893a7afc76",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726618727,
+          "stop" : 1599726634820,
+          "duration" : 16093
+        },
+        "flaky" : false,
+        "parameters" : [ "Fujitsu-siemens", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "a4320d554d79cdf6",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726637602,
+          "stop" : 1599726652592,
+          "duration" : 14990
+        },
+        "flaky" : false,
+        "parameters" : [ "Mixzo", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "120b116ad16785c3",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726662239,
+          "stop" : 1599726677813,
+          "duration" : 15574
+        },
+        "flaky" : false,
+        "parameters" : [ "Gigabyte", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "14296f844a057cf6",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726669939,
+          "stop" : 1599726683369,
+          "duration" : 13430
+        },
+        "flaky" : false,
+        "parameters" : [ "NuVision", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "25539df4064bfe7c",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726706947,
+          "stop" : 1599726725092,
+          "duration" : 18145
+        },
+        "flaky" : false,
+        "parameters" : [ "Google", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "ccbae5627aedbaac",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726807179,
+          "stop" : 1599726826263,
+          "duration" : 19084
+        },
+        "flaky" : false,
+        "parameters" : [ "Medion", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "991168162a25ea93",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726858895,
+          "stop" : 1599726873040,
+          "duration" : 14145
+        },
+        "flaky" : false,
+        "parameters" : [ "Mixzo", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "eb59b1749377f046",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599726891977,
+          "stop" : 1599726903352,
+          "duration" : 11375
+        },
+        "flaky" : false,
+        "parameters" : [ "NuVision", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "41c13977721e4d39",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822076714,
+          "stop" : 1599822100691,
+          "duration" : 23977
+        },
+        "flaky" : true,
+        "parameters" : [ "Asus", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "7cd287e11ea69d9a",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822098615,
+          "stop" : 1599822121773,
+          "duration" : 23158
+        },
+        "flaky" : true,
+        "parameters" : [ "Asus", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "9032db256827bb16",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822172573,
+          "stop" : 1599822195418,
+          "duration" : 22845
+        },
+        "flaky" : true,
+        "parameters" : [ "HP", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "488eab27929bb893",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822219047,
+          "stop" : 1599822242160,
+          "duration" : 23113
+        },
+        "flaky" : true,
+        "parameters" : [ "HP", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "6fb1e4ff139656b8",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822317871,
+          "stop" : 1599822338844,
+          "duration" : 20973
+        },
+        "flaky" : true,
+        "parameters" : [ "Microsoft", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "48ff0e9870814d6d",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822364527,
+          "stop" : 1599822384795,
+          "duration" : 20268
+        },
+        "flaky" : true,
+        "parameters" : [ "Razer", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "e2bfa95ff25be734",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822383058,
+          "stop" : 1599822405979,
+          "duration" : 22921
+        },
+        "flaky" : true,
+        "parameters" : [ "Microsoft", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "eac39a9f7178f038",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822439453,
+          "stop" : 1599822459089,
+          "duration" : 19636
+        },
+        "flaky" : true,
+        "parameters" : [ "Alien", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "1a434893c39c0dde",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822444485,
+          "stop" : 1599822464605,
+          "duration" : 20120
+        },
+        "flaky" : true,
+        "parameters" : [ "Razer", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "bbc08de3ca0522fe",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822524722,
+          "stop" : 1599822539650,
+          "duration" : 14928
+        },
+        "flaky" : true,
+        "parameters" : [ "Alien", "firefox" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "c4490faf634e242a",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822565370,
+          "stop" : 1599822579937,
+          "duration" : 14567
+        },
+        "flaky" : true,
+        "parameters" : [ "Epic", "chrome" ]
+      }, {
+        "name" : "runToDevice",
+        "uid" : "31d83f89636f7df0",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599822616805,
+          "stop" : 1599822632680,
+          "duration" : 15875
+        },
+        "flaky" : true,
+        "parameters" : [ "Fujitsu-siemens", "chrome" ]
+      } ],
+      "uid" : "067aa11ae245eca950dc984999fefd6d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

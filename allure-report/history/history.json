@@ -1,0 +1,1942 @@
+{
+  "ab1ebe510f7d2a11e1f1283a6f817ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d93ebd76a77de51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822198169,
+        "stop" : 1599822218464,
+        "duration" : 20295
+      }
+    } ]
+  },
+  "8e295fc6d6f271b8f4e75fac377e29ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b2f58b31af42ecb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822386947,
+        "stop" : 1599822413284,
+        "duration" : 26337
+      }
+    } ]
+  },
+  "e8362316f648ba7a53fee4f5c359549c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4da2ce9f1bc51069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671933896,
+        "stop" : 1599671950173,
+        "duration" : 16277
+      }
+    } ]
+  },
+  "1626ce079a604302b323bbf17840ddb6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "236d51848ab0664d",
+      "status" : "skipped",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599674715505,
+        "stop" : 1599674736808,
+        "duration" : 21303
+      }
+    } ]
+  },
+  "1117cc740122852f0ea82f72f892b281" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29a91a9ad6b34602",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599727027796,
+        "stop" : 1599727039602,
+        "duration" : 11806
+      }
+    } ]
+  },
+  "63ab5479be44a7de5f90d4025bab7709" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ae597794db47296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726759398,
+        "stop" : 1599726775286,
+        "duration" : 15888
+      }
+    } ]
+  },
+  "130b79c1c26bb5fe3c23f3f6b5830abc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31f281acdee3546",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822582276,
+        "stop" : 1599822598427,
+        "duration" : 16151
+      }
+    } ]
+  },
+  "c41e1d050a3ffa39bdae110d8e5d21e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f55d0ba6ac8ac1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822249336,
+        "stop" : 1599822284733,
+        "duration" : 35397
+      }
+    } ]
+  },
+  "ad6f96df9b369c2d08579bfadc8a94cb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4490faf634e242a",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822565370,
+        "stop" : 1599822579937,
+        "duration" : 14567
+      }
+    } ]
+  },
+  "69b97965c347c483b1dd1824fd58ab75" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c827edd06183fef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671181114,
+        "stop" : 1599671194116,
+        "duration" : 13002
+      }
+    } ]
+  },
+  "9cf47b0ade7939577db9708ff447fa71" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41c13977721e4d39",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822076714,
+        "stop" : 1599822100691,
+        "duration" : 23977
+      }
+    } ]
+  },
+  "8681e549c5160a63c2e4a0f9ca8db2a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b4e7662d3cfd64a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//label[contains(.,'Compaq')]\"}\n  (Session info: chrome=85.0.4183.83)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.83, chrome: {chromedriverVersion: 85.0.4183.83 (94abc2237ae0c..., userDataDir: /tmp/.com.google.Chrome.rYpPWK}, goog:chromeOptions: {debuggerAddress: localhost:36971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: ce8763d85155de71df7cc31bef6...}\nSession ID: ce8763d85155de71df7cc31bef6e8f6f\n*** Element info: {Using=xpath, value=//label[contains(.,'Compaq')]}",
+      "time" : {
+        "start" : 1599822497607,
+        "stop" : 1599822509063,
+        "duration" : 11456
+      }
+    } ]
+  },
+  "2b44021acef931050b624dce7bc3f3ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba8016be7926038a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599727009887,
+        "stop" : 1599727023334,
+        "duration" : 13447
+      }
+    } ]
+  },
+  "36b7b1e3f19a68dc449678af8454275b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ddec5cce8ca2ee6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726685778,
+        "stop" : 1599726700312,
+        "duration" : 14534
+      }
+    } ]
+  },
+  "dc4f83ae1296e7f23c2b7cc988f97725" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a139b9dab798bb9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599821996478,
+        "stop" : 1599822024353,
+        "duration" : 27875
+      }
+    } ]
+  },
+  "7b89f3a14f44151e2835318b02491e93" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8caba964a53ee082",
+      "status" : "skipped",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599674728634,
+        "stop" : 1599674748091,
+        "duration" : 19457
+      }
+    } ]
+  },
+  "6bc7c76379ef1812dbebcc49754f6a3c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b90445233aa0700b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726980368,
+        "stop" : 1599726991330,
+        "duration" : 10962
+      }
+    } ]
+  },
+  "299708b9a796b70d9024f0b9a2556129" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9032db256827bb16",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822172573,
+        "stop" : 1599822195418,
+        "duration" : 22845
+      }
+    } ]
+  },
+  "c71f11ed30dfb7a7a35c9bcc72a0b669" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eac39a9f7178f038",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822439453,
+        "stop" : 1599822459089,
+        "duration" : 19636
+      }
+    } ]
+  },
+  "c1bce3eb93b736e5a7c85ba1798f54ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41949190f21e7e88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822128782,
+        "stop" : 1599822151203,
+        "duration" : 22421
+      }
+    } ]
+  },
+  "4eb2a7ce63c8ae6f7cf771c25cae1d21" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25539df4064bfe7c",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726706947,
+        "stop" : 1599726725092,
+        "duration" : 18145
+      }
+    } ]
+  },
+  "c616c945158fd7de767e5039ef02e93d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7cd287e11ea69d9a",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822098615,
+        "stop" : 1599822121773,
+        "duration" : 23158
+      }
+    } ]
+  },
+  "ca9b243a5110396478883ca6e0e9c175" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ae22af130c66d8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726571420,
+        "stop" : 1599726588302,
+        "duration" : 16882
+      }
+    } ]
+  },
+  "43871c7fbab51eb49c2bb3e858c90755" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a3fed3ba7d8273f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726920357,
+        "stop" : 1599726933169,
+        "duration" : 12812
+      }
+    } ]
+  },
+  "8bc47197ce0653211036cd6f2cdcb7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e92c32102212e646",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599674703819,
+        "stop" : 1599674719908,
+        "duration" : 16089
+      }
+    } ]
+  },
+  "af237b631a2b27bc71890c7223519f1c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a434893c39c0dde",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822444485,
+        "stop" : 1599822464605,
+        "duration" : 20120
+      }
+    } ]
+  },
+  "1ae7ceb0b8d079a3fc00ab663c084e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2bfa95ff25be734",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822383058,
+        "stop" : 1599822405979,
+        "duration" : 22921
+      }
+    } ]
+  },
+  "4e68714f3f3c8e8b8f820bfee699ecd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5733cb0a7a47036",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'Port' is required by BeforeMethod on method setUp but has not been marked @Optional or defined\nin /home/owner/IdeaProjects/lesson3/lesson12.xml",
+      "time" : {
+        "start" : 1599674592428,
+        "stop" : 1599674592429,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b2d7fc2703339c12b30fb8c76a5bcc2a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5c20503e250437e3",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726602885,
+        "stop" : 1599726618759,
+        "duration" : 15874
+      }
+    } ]
+  },
+  "2b7d2df0cabfb9435f9032e38d59a2ee" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "120b116ad16785c3",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726662239,
+        "stop" : 1599726677813,
+        "duration" : 15574
+      }
+    } ]
+  },
+  "1cefba878d1c4b84a3a1676a57f17882" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f96ee049fbc1edc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671270583,
+        "stop" : 1599671296931,
+        "duration" : 26348
+      }
+    } ]
+  },
+  "45f9f6467eb1678d9f39a7bfd855fd33" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48ff0e9870814d6d",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822364527,
+        "stop" : 1599822384795,
+        "duration" : 20268
+      }
+    } ]
+  },
+  "8f4998f79d94425f4504299f5d7aabb3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5754d11eb54fc12c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822546384,
+        "stop" : 1599822563743,
+        "duration" : 17359
+      }
+    } ]
+  },
+  "33a7c061320c53425ac2bae3aa28ed00" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da0e4f42bfaa6c6d",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599671104370,
+        "stop" : 1599671116910,
+        "duration" : 12540
+      }
+    } ]
+  },
+  "984240222888e739243774484aff07e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "331cb3fe5e9f9138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726951090,
+        "stop" : 1599726963035,
+        "duration" : 11945
+      }
+    } ]
+  },
+  "415c4f98340ea013964181efd2ab1e12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9eefd55d0a3856c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726937123,
+        "stop" : 1599726947210,
+        "duration" : 10087
+      }
+    } ]
+  },
+  "81949e7b79a3161ad9830ef4f1dffe4f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14296f844a057cf6",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726669939,
+        "stop" : 1599726683369,
+        "duration" : 13430
+      }
+    } ]
+  },
+  "5837a8e5f925a573e1c863a84adc7fb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9a671aa816649d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726566488,
+        "stop" : 1599726581291,
+        "duration" : 14803
+      }
+    } ]
+  },
+  "36ec498603969c59fd4626032721f733" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bbc08de3ca0522fe",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822524722,
+        "stop" : 1599822539650,
+        "duration" : 14928
+      }
+    } ]
+  },
+  "698e1ddbbf75ca44b07c98dd2e712bf8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f426e93ab3da42cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726732890,
+        "stop" : 1599726751791,
+        "duration" : 18901
+      }
+    } ]
+  },
+  "d5502a9cf164264d56655e380660de6a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4712ab6c9210eb15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726967363,
+        "stop" : 1599726976501,
+        "duration" : 9138
+      }
+    } ]
+  },
+  "980ed778e542d4640da999169cfc17a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efb7df9abd7c75ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599674694422,
+        "stop" : 1599674711591,
+        "duration" : 17169
+      }
+    } ]
+  },
+  "8811d4fbdf55368412f3bf1dd90cf26f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f02c106eff483643",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671134541,
+        "stop" : 1599671148144,
+        "duration" : 13603
+      }
+    } ]
+  },
+  "2f8ad9d629d4dee43bd71f95476b1179" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ea25aa4b8dcc3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726995357,
+        "stop" : 1599727005969,
+        "duration" : 10612
+      }
+    } ]
+  },
+  "3756d6d3b8c1e24f9fe4229afb467854" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35a502a361955d63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822474179,
+        "stop" : 1599822496114,
+        "duration" : 21935
+      }
+    } ]
+  },
+  "38e98271c96c8e3fe2f06e0cfc07ac21" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c89a6d9a5dd8e4e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599821992002,
+        "stop" : 1599822018446,
+        "duration" : 26444
+      }
+    } ]
+  },
+  "c914abcf222ab76876c41b5ab8671273" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af6bd33d1171df1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671119107,
+        "stop" : 1599671132768,
+        "duration" : 13661
+      }
+    } ]
+  },
+  "f9706026c832346e239e5a693e901862" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e33a05987eada841",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671075270,
+        "stop" : 1599671086520,
+        "duration" : 11250
+      }
+    } ]
+  },
+  "7051fda2580327195d512b344cafcd91" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb59b1749377f046",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726891977,
+        "stop" : 1599726903352,
+        "duration" : 11375
+      }
+    } ]
+  },
+  "7b0321b41480a451fabf35f997b011c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e77b51d636c2cb5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822462136,
+        "stop" : 1599822481388,
+        "duration" : 19252
+      }
+    } ]
+  },
+  "81a584b3a1ed93751c3944ee40f4f019" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "488eab27929bb893",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822219047,
+        "stop" : 1599822242160,
+        "duration" : 23113
+      }
+    } ]
+  },
+  "117d4b0633940616c89e1e416d19debf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc7c41708506af65",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'Port' is required by BeforeMethod on method setUp but has not been marked @Optional or defined\nin /home/owner/IdeaProjects/lesson3/lesson12.xml",
+      "time" : {
+        "start" : 1599674591584,
+        "stop" : 1599674591590,
+        "duration" : 6
+      }
+    } ]
+  },
+  "a9f0de04d39d4c0f05e0e3dee177bad7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e64ffd00e511219",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822529113,
+        "stop" : 1599822545772,
+        "duration" : 16659
+      }
+    } ]
+  },
+  "f6a29a1d6e4cf93edcd87e106a1d54c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b2ec64e0fba431d",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'Port' is required by BeforeMethod on method setUp but has not been marked @Optional or defined\nin /home/owner/IdeaProjects/lesson3/lesson12.xml",
+      "time" : {
+        "start" : 1599674591584,
+        "stop" : 1599674591590,
+        "duration" : 6
+      }
+    } ]
+  },
+  "36e39dd23789960ce49b52dac40e0fc4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24cee3637eaa32c7",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726528722,
+        "stop" : 1599726544989,
+        "duration" : 16267
+      }
+    } ]
+  },
+  "f35fdd26d61c569dc1d9ee225070689e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31d83f89636f7df0",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822616805,
+        "stop" : 1599822632680,
+        "duration" : 15875
+      }
+    } ]
+  },
+  "e9fe3e8cf3a7280bcc97110a4c7dc11d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccbae5627aedbaac",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726807179,
+        "stop" : 1599726826263,
+        "duration" : 19084
+      }
+    } ]
+  },
+  "99c616e4bee3cc71e7f9252c7193ddc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "204ca91e0e041a38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726793509,
+        "stop" : 1599726811102,
+        "duration" : 17593
+      }
+    } ]
+  },
+  "abb1a5fde6306f41b99bd2f873a6011" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f0c1d54449fcfc8",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726546629,
+        "stop" : 1599726564602,
+        "duration" : 17973
+      }
+    } ]
+  },
+  "52b9334afb77f208e77a3a7a4719f4c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2308134130fb32c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822283599,
+        "stop" : 1599822312287,
+        "duration" : 28688
+      }
+    } ]
+  },
+  "3afe4152189bb0d6ebb167f421203f40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be9cda72a773d796",
+      "status" : "broken",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1599672517265,
+        "stop" : 1599672517265,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7a3de3b157d6ed383498660be9d7ed3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6ed680093638d45",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'Port' is required by BeforeMethod on method setUp but has not been marked @Optional or defined\nin /home/owner/IdeaProjects/lesson3/lesson12.xml",
+      "time" : {
+        "start" : 1599674592401,
+        "stop" : 1599674592401,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b3794381fcb216b0f99c0090e67ac35f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fb1e4ff139656b8",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599822317871,
+        "stop" : 1599822338844,
+        "duration" : 20973
+      }
+    } ]
+  },
+  "4ad501b34bbdc7664c2febc774c4601f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a566c2f9ba1ce145",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726738721,
+        "stop" : 1599726757651,
+        "duration" : 18930
+      }
+    } ]
+  },
+  "93740f34fbbf8390d35df603e633e738" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bde526862012a06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822220473,
+        "stop" : 1599822247214,
+        "duration" : 26741
+      }
+    } ]
+  },
+  "c806e493cb9c67f673c416138a6666e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c72d10598209210",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822033439,
+        "stop" : 1599822053619,
+        "duration" : 20180
+      }
+    } ]
+  },
+  "abe3d403b38b4e5f5296744731bedba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ad1eb8ba6fe0de9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671195430,
+        "stop" : 1599671210289,
+        "duration" : 14859
+      }
+    } ]
+  },
+  "e2b03485ff08c277def0ba6f42e72a45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14b2a90cd7ed21b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599674673946,
+        "stop" : 1599674696059,
+        "duration" : 22113
+      }
+    } ]
+  },
+  "719a0cdd10de81773b2df51ee139ad8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed3d74bb67e61967",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822320960,
+        "stop" : 1599822344675,
+        "duration" : 23715
+      }
+    } ]
+  },
+  "bd10ee21f51c8e43ffb508b2e19b1f6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4655d5dced58572b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599674669550,
+        "stop" : 1599674692068,
+        "duration" : 22518
+      }
+    } ]
+  },
+  "893e79c3888ef77438c88fd79aa93c52" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "197edcd3cfcf17b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822157905,
+        "stop" : 1599822179595,
+        "duration" : 21690
+      }
+    } ]
+  },
+  "274c69fa5bfe0a3201ea601679dfaf9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4737c665b2c222e",
+      "status" : "skipped",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1599672512932,
+        "stop" : 1599672512933,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c439b20c059bc4ff14d2210a7357f7c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea9c5a1936965294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822249967,
+        "stop" : 1599822273546,
+        "duration" : 23579
+      }
+    } ]
+  },
+  "242ed9f06e0551295d1cde530fecd28e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "605d6f470f17079d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726759067,
+        "stop" : 1599726773017,
+        "duration" : 13950
+      }
+    } ]
+  },
+  "618890851447388e23c190d1cfc61921" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4320d554d79cdf6",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726637602,
+        "stop" : 1599726652592,
+        "duration" : 14990
+      }
+    } ]
+  },
+  "b21c0e519306bd72d443de69dffaf2be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e32127bafc277af8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726839631,
+        "stop" : 1599726861269,
+        "duration" : 21638
+      }
+    } ]
+  },
+  "877c301d1bb28776f909bb2b19680510" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1583957b55cb8e5",
+      "status" : "skipped",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1599672517556,
+        "stop" : 1599672517556,
+        "duration" : 0
+      }
+    } ]
+  },
+  "970657265acf9056f8205918873b24d6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92944a4c1260cddc",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726495470,
+        "stop" : 1599726509336,
+        "duration" : 13866
+      }
+    } ]
+  },
+  "579c1d262e91610ecbe8fa3186791d5b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ebe9e007f966fa06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726719905,
+        "stop" : 1599726737128,
+        "duration" : 17223
+      }
+    } ]
+  },
+  "62fccaecf54041a01480872e9481ca83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f76786a4464c19d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822021287,
+        "stop" : 1599822041870,
+        "duration" : 20583
+      }
+    } ]
+  },
+  "76bb2944b753c3d1a7d396f95ed0203b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55e671687e123bdf",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599671165700,
+        "stop" : 1599671179342,
+        "duration" : 13642
+      }
+    } ]
+  },
+  "2df2e027093997f800120fd6707a62b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e1a9d0ea8fdfd4e",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=84.0.4147.125)\n  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 5.3.0-40-generic x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578700 (2f1ed5f9343c13..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:36843}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 84.0.4147.125, webStorageEnabled: true, webdriver.remote.sessionid: 6502445ac86e1667fb3b2c550b9...}\nSession ID: 6502445ac86e1667fb3b2c550b940158",
+      "time" : {
+        "start" : 1599590255538,
+        "stop" : 1599590255545,
+        "duration" : 7
+      }
+    } ]
+  },
+  "afdddf70bd9cf821c4e7017f9dec0aee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd640c8c2e6366fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822630337,
+        "stop" : 1599822656476,
+        "duration" : 26139
+      }
+    } ]
+  },
+  "378c59676bafe970920d43e5ff914969" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dbf4920dbfdf81bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671270579,
+        "stop" : 1599671297786,
+        "duration" : 27207
+      }
+    } ]
+  },
+  "1c1d45f62af001df5e61f0923c43e7a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa9376f5496ec27f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671871579,
+        "stop" : 1599671883256,
+        "duration" : 11677
+      }
+    } ]
+  },
+  "fe3ae14ec68df8188ba5e284645400e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d29fb834baa912b",
+      "status" : "broken",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1599672512164,
+        "stop" : 1599672512165,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b14cc1f29e2f5dc5e15ae9fdd4ca544f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8dee25f44642a6b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822129218,
+        "stop" : 1599822151379,
+        "duration" : 22161
+      }
+    } ]
+  },
+  "2feed765355c64112308e42600834029" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8f25a83b82c5129",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: //label[contains(.,'Compaq')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200818235255, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 5925, moz:profile: /tmp/rust_mozprofileb20Np7, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, platformVersion: 5.3.0-40-generic, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: cea77676-8dab-463d-b182-0f2...}\nSession ID: cea77676-8dab-463d-b182-0f26026b7fb2\n*** Element info: {Using=xpath, value=//label[contains(.,'Compaq')]}",
+      "time" : {
+        "start" : 1599822588803,
+        "stop" : 1599822600877,
+        "duration" : 12074
+      }
+    } ]
+  },
+  "42edbd662ae71b6e46d529a2922a64e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cab8e94b419850de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822607786,
+        "stop" : 1599822623087,
+        "duration" : 15301
+      }
+    } ]
+  },
+  "712fcb994a85a784cb7e195efb58ca35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "815fe74c3a4fecd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726776809,
+        "stop" : 1599726791415,
+        "duration" : 14606
+      }
+    } ]
+  },
+  "dc3c12aeafd64084fc176b91933d1cad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da059bdbfcdfe75f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822511546,
+        "stop" : 1599822527537,
+        "duration" : 15991
+      }
+    } ]
+  },
+  "64c7921026ac8a1a2263601345d9f0f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20506d46c2535d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726702426,
+        "stop" : 1599726717630,
+        "duration" : 15204
+      }
+    } ]
+  },
+  "b4f657393042db7cbb7ca5b3bfcb60cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8761dee7e1890fc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726547220,
+        "stop" : 1599726564204,
+        "duration" : 16984
+      }
+    } ]
+  },
+  "4d5b0d30d73afb9092b4b09b42d1d7fa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c60cc4f6fcc21670",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599671671786,
+        "stop" : 1599671685999,
+        "duration" : 14213
+      }
+    } ]
+  },
+  "6220c552554c2d6000611a2e2b5d8b9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8aaad943d31f3d29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726813334,
+        "stop" : 1599726838034,
+        "duration" : 24700
+      }
+    } ]
+  },
+  "5de70a27fcddd1f7423f12a0d8ff5799" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5babc71b67c8939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599822102693,
+        "stop" : 1599822126808,
+        "duration" : 24115
+      }
+    } ]
+  },
+  "b9f87d27eeca0932c2cf49042b88cb83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26ba8af4bdce0618",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=84.0.4147.125)\n  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 5.3.0-40-generic x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'owner-HP-EliteBook-Folio-9470m', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.3.0-40-generic', java.version: '1.8.0_252'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578700 (2f1ed5f9343c13..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:36843}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 84.0.4147.125, webStorageEnabled: true, webdriver.remote.sessionid: 6502445ac86e1667fb3b2c550b9...}\nSession ID: 6502445ac86e1667fb3b2c550b940158",
+      "time" : {
+        "start" : 1599590255779,
+        "stop" : 1599590255781,
+        "duration" : 2
+      }
+    } ]
+  },
+  "97a617b7e0877e223e1d125cd2447ed4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd6fa7893a7afc76",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726618727,
+        "stop" : 1599726634820,
+        "duration" : 16093
+      }
+    } ]
+  },
+  "992f8684553827bb73ce141862648384" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24f5d919cd2fe3d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599726907402,
+        "stop" : 1599726916490,
+        "duration" : 9088
+      }
+    } ]
+  },
+  "b49b560021e5180272fce2dd963dac7c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "991168162a25ea93",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1599726858895,
+        "stop" : 1599726873040,
+        "duration" : 14145
+      }
+    } ]
+  }
+}

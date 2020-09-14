@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.415 s <<< FAILURE! - in TestSuite
+test.java.rozetka.Manufacturer_random_check_example.randomManufacturer  Time elapsed: 2.161 s  <<< FAILURE!
+org.testng.internal.reflect.MethodMatcherException: 
+
+[public void test.java.rozetka.Manufacturer_random_check_example.randomManufacturer()] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: randomManufacturer([])
+Arguments: [(java.lang.String) Acer]
+

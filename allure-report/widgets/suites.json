@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "0125fdf818af58e984ed140ec4159da9",
+    "name" : "Firssuite",
+    "statistic" : {
+      "failed" : 26,
+      "broken" : 6,
+      "skipped" : 6,
+      "passed" : 60,
+      "unknown" : 0,
+      "total" : 98
+    }
+  }, {
+    "uid" : "7f5b7b76b472da41919013be41bb498f",
+    "name" : "MySuite",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}
